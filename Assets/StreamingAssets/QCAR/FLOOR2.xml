@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="229A" size="100.000000 133.333328" />
+    <ImageTarget name="271" size="100.000000 133.333328" />
+    <ImageTarget name="270" size="100.000000 133.333328" />
+    <ImageTarget name="262" size="100.000000 133.333328" />
+    <ImageTarget name="261" size="100.000000 133.333328" />
+    <ImageTarget name="230" size="100.000000 133.333328" />
+    <ImageTarget name="229" size="100.000000 133.333328" />
+    <ImageTarget name="228A" size="100.000000 133.333328" />
+    <ImageTarget name="228" size="100.000000 133.333328" />
+    <ImageTarget name="227" size="100.000000 133.333328" />
+    <ImageTarget name="226" size="100.000000 133.333328" />
+    <ImageTarget name="225" size="100.000000 133.333328" />
+    <ImageTarget name="224" size="100.000000 133.333328" />
+    <ImageTarget name="223" size="100.000000 133.333328" />
+    <ImageTarget name="222" size="100.000000 133.333328" />
+    <ImageTarget name="221" size="100.000000 133.333328" />
+    <ImageTarget name="220" size="100.000000 133.333328" />
+    <ImageTarget name="219" size="100.000000 133.333328" />
+    <ImageTarget name="218" size="100.000000 133.333328" />
+    <ImageTarget name="217" size="100.000000 133.333328" />
+    <ImageTarget name="216" size="100.000000 133.333328" />
+    <ImageTarget name="215" size="100.000000 133.333328" />
+    <ImageTarget name="214" size="100.000000 133.333328" />
+    <ImageTarget name="213" size="100.000000 133.333328" />
+    <ImageTarget name="212" size="100.000000 133.333328" />
+    <ImageTarget name="211" size="100.000000 133.333328" />
+    <ImageTarget name="210" size="100.000000 133.333328" />
+    <ImageTarget name="209" size="100.000000 133.333328" />
+    <ImageTarget name="208" size="100.000000 133.333328" />
+    <ImageTarget name="207" size="100.000000 133.333328" />
+    <ImageTarget name="206A" size="100.000000 133.333328" />
+    <ImageTarget name="206" size="100.000000 133.333328" />
+    <ImageTarget name="205" size="100.000000 133.333328" />
+    <ImageTarget name="204" size="100.000000 133.333328" />
+    <ImageTarget name="203" size="100.000000 133.333328" />
+    <ImageTarget name="202" size="100.000000 133.333328" />
+    <ImageTarget name="200" size="100.000000 133.333328" />
+  </Tracking>
+</QCARConfig>

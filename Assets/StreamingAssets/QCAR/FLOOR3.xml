@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="330" size="100.000000 133.333328" />
+    <ImageTarget name="329A" size="100.000000 133.333328" />
+    <ImageTarget name="329" size="100.000000 133.333328" />
+    <ImageTarget name="328" size="100.000000 133.333328" />
+    <ImageTarget name="327" size="100.000000 133.333328" />
+    <ImageTarget name="325" size="100.000000 133.333328" />
+    <ImageTarget name="324" size="100.000000 133.333328" />
+    <ImageTarget name="323" size="100.000000 133.333328" />
+    <ImageTarget name="322" size="100.000000 133.333328" />
+    <ImageTarget name="321B" size="100.000000 133.333328" />
+    <ImageTarget name="321A" size="100.000000 133.333328" />
+    <ImageTarget name="321" size="100.000000 133.333328" />
+    <ImageTarget name="320" size="100.000000 133.333328" />
+    <ImageTarget name="319" size="100.000000 133.333328" />
+    <ImageTarget name="316" size="100.000000 133.333328" />
+    <ImageTarget name="313" size="100.000000 133.333328" />
+    <ImageTarget name="312" size="100.000000 133.333328" />
+    <ImageTarget name="310" size="100.000000 133.333328" />
+    <ImageTarget name="309" size="100.000000 133.333328" />
+    <ImageTarget name="308" size="100.000000 133.333328" />
+    <ImageTarget name="307" size="100.000000 133.333328" />
+    <ImageTarget name="306" size="100.000000 133.333328" />
+    <ImageTarget name="304" size="100.000000 133.333328" />
+    <ImageTarget name="301" size="100.000000 133.333328" />
+  </Tracking>
+</QCARConfig>

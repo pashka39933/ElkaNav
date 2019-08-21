@@ -1,0 +1,5 @@
+518	<=>	Dziekanat IAiIS
+205	<=>	Dziekanat II
+159	<=>	Dziekanat IMiO
+221	<=>	Dziekanat ISE
+508	<=>	Dziekanat TELE

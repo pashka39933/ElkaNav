@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CS306" size="100.000000 75.000000" />
+    <ImageTarget name="CS305" size="100.000000 75.000000" />
+    <ImageTarget name="CS301" size="100.000000 75.000000" />
+    <ImageTarget name="CS300" size="100.000000 75.000000" />
+    <ImageTarget name="CS403" size="100.000000 75.000000" />
+    <ImageTarget name="CS402" size="100.000000 75.000000" />
+    <ImageTarget name="CS401" size="100.000000 75.000000" />
+    <ImageTarget name="CS400" size="100.000000 75.000000" />
+    <ImageTarget name="CS304" size="100.000000 75.000000" />
+    <ImageTarget name="CS303" size="100.000000 75.000000" />
+    <ImageTarget name="CS302" size="100.000000 75.000000" />
+    <ImageTarget name="CS204" size="100.000000 75.000000" />
+    <ImageTarget name="CS203" size="100.000000 75.000000" />
+    <ImageTarget name="CS202" size="100.000000 75.000000" />
+    <ImageTarget name="CS201" size="100.000000 75.000000" />
+    <ImageTarget name="CS200" size="100.000000 75.000000" />
+    <ImageTarget name="CS103" size="100.000000 75.000000" />
+    <ImageTarget name="CS102" size="100.000000 75.000000" />
+    <ImageTarget name="CS101" size="100.000000 75.000000" />
+    <ImageTarget name="CS100" size="100.000000 75.000000" />
+    <ImageTarget name="CS2" size="100.000000 75.000000" />
+    <ImageTarget name="CS1" size="100.000000 75.000000" />
+  </Tracking>
+</QCARConfig>

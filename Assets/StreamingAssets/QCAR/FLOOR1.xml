@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="170" size="100.000000 133.333328" />
+    <ImageTarget name="168" size="100.000000 133.333328" />
+    <ImageTarget name="167" size="100.000000 133.333328" />
+    <ImageTarget name="164" size="100.000000 133.333328" />
+    <ImageTarget name="162" size="100.000000 133.333328" />
+    <ImageTarget name="146" size="100.000000 133.333328" />
+    <ImageTarget name="145A" size="100.000000 133.333328" />
+    <ImageTarget name="143A" size="100.000000 133.333328" />
+    <ImageTarget name="143" size="100.000000 133.333328" />
+    <ImageTarget name="142" size="100.000000 133.333328" />
+    <ImageTarget name="141" size="100.000000 133.333328" />
+    <ImageTarget name="140A" size="100.000000 133.333328" />
+    <ImageTarget name="140" size="100.000000 133.333328" />
+    <ImageTarget name="139" size="100.000000 133.333328" />
+    <ImageTarget name="138" size="100.000000 133.333328" />
+    <ImageTarget name="137" size="100.000000 133.333328" />
+    <ImageTarget name="136" size="100.000000 133.333328" />
+    <ImageTarget name="135" size="100.000000 133.333328" />
+    <ImageTarget name="134" size="100.000000 133.333328" />
+    <ImageTarget name="133" size="100.000000 133.333328" />
+    <ImageTarget name="122" size="100.000000 133.333328" />
+    <ImageTarget name="121" size="100.000000 133.333328" />
+    <ImageTarget name="120" size="100.000000 133.333328" />
+    <ImageTarget name="119A" size="100.000000 133.333328" />
+    <ImageTarget name="119" size="100.000000 133.333328" />
+    <ImageTarget name="118" size="100.000000 133.333328" />
+    <ImageTarget name="112" size="100.000000 133.333328" />
+    <ImageTarget name="111" size="100.000000 133.333328" />
+    <ImageTarget name="110" size="100.000000 133.333328" />
+    <ImageTarget name="107" size="100.000000 133.333328" />
+    <ImageTarget name="109" size="100.000000 133.333328" />
+    <ImageTarget name="108" size="100.000000 133.333328" />
+    <ImageTarget name="106" size="100.000000 133.333328" />
+    <ImageTarget name="105" size="100.000000 133.333328" />
+    <ImageTarget name="104" size="100.000000 133.333328" />
+    <ImageTarget name="103" size="100.000000 133.333328" />
+    <ImageTarget name="102" size="100.000000 133.333328" />
+    <ImageTarget name="100" size="100.000000 133.333328" />
+    <ImageTarget name="114" size="100.000000 133.333328" />
+    <ImageTarget name="117" size="100.000000 133.333328" />
+    <ImageTarget name="116" size="100.000000 133.333328" />
+    <ImageTarget name="115B" size="100.000000 133.333328" />
+    <ImageTarget name="115A" size="100.000000 133.333328" />
+    <ImageTarget name="115" size="100.000000 133.333328" />
+  </Tracking>
+</QCARConfig>
